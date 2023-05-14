@@ -114,7 +114,10 @@ public class OrderDAO{
     private void writeFile(String date){
 
         String fileName = "Orders_" + date + ".txt"; //Creates a formatted file name from the date
-
+        //Note, this will not put the files in the Orders folder, but in the the working directory
+        //This is done for more consistent testing
+        //To put the files in the orders folder instead, use:
+        //String fileName = "Orders/Orders_" + date + ".txt";
         try {
 
             FileWriter writer = new FileWriter(fileName);
