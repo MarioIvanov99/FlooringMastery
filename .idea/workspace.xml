@@ -4,31 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cee9fdf-63b4-4979-953f-e54f174e9045" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/DAO/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/DAO/OrderDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/DAO/ProductDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/DAO/TaxDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/DTO/OrderDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Model/Orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Model/Products.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Model/Tax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Service/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/View/IOHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/View/UserIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/company/DAO/OrderDAOTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/company/DAO/ProductDAOTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/company/DAO/TaxDAOTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/company/Service/ServiceTest.java" afterDir="false" />
+    <list default="true" id="6cee9fdf-63b4-4979-953f-e54f174e9045" name="Changes" comment="Flooring commit">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/DAO/TaxDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/DAO/TaxDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,6 +146,18 @@
       <option name="presentableId" value="Default" />
       <updated>1683535591861</updated>
     </task>
+    <task id="LOCAL-00001" summary="Flooring commit">
+      <created>1684070961500</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684070961501</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Flooring commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flooring commit" />
   </component>
 </project>

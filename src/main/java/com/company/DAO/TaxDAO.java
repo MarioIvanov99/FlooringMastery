@@ -39,7 +39,7 @@ public class TaxDAO implements DAO{
 
         try {
             fileReader = new FileReader(allTaxes);
-            BufferedReader bufferedReader = new BufferedReader(fileReader); /
+            BufferedReader bufferedReader = new BufferedReader(fileReader);
             String lineFromFile = " ";
             bufferedReader.readLine();
 
