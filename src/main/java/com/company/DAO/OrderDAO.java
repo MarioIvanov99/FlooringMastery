@@ -118,6 +118,7 @@ public class OrderDAO{
         //This is done for more consistent testing
         //To put the files in the orders folder instead, use:
         //String fileName = "Orders/Orders_" + date + ".txt";
+
         try {
 
             FileWriter writer = new FileWriter(fileName);
