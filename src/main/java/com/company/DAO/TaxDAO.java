@@ -41,6 +41,7 @@ public class TaxDAO implements DAO{
             fileReader = new FileReader(allTaxes);
             BufferedReader bufferedReader = new BufferedReader(fileReader);
             String lineFromFile = " ";
+
             bufferedReader.readLine();
 
             while (lineFromFile != null) {
